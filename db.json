@@ -1,0 +1,20 @@
+{
+  "clientes": [
+    {
+      "nombre": "Misael Alejandro Actualizado",
+      "empresa": "wadawdda",
+      "email": "misavazquezsifuentes@gmail.com",
+      "telefono": "+523320342354",
+      "notas": "",
+      "id": 4
+    },
+    {
+      "nombre": "Francisco Javier",
+      "empresa": "wadawdda",
+      "email": "misavazquezsifuentes@gmail.com",
+      "telefono": "+523320342354",
+      "notas": "dwad",
+      "id": 5
+    }
+  ]
+}
